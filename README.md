@@ -9,3 +9,5 @@ Basic java game
 - [Basic Game Tutorial](http://compsci.ca/v3/viewtopic.php?t=25991)
 - Stack Overflow:
     - [getGraphics](http://stackoverflow.com/questions/15986677/drawing-an-object-using-getgraphics-without-extending-jframe)
+- [Introductory Java course by university of San Diego](https://sites.google.com/a/eng.ucsd.edu/cse-8a-fall-2014/schedule-and-assignments)
+- [Coursera - Intermediate Java Course](https://www.coursera.org/learn/object-oriented-java)
